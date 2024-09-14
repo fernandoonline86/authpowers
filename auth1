@@ -272,8 +272,9 @@ MOON3: 131.196.198.15
 189.127.164.20-Agua 
 
 [seck_rj]: 
-189.127.164.20-Tele 
-189.127.164.20-Incendios2 
+--189.127.164.20-Tele 
+--189.127.164.20-Incendios2 
+--189.127.164.20-Tsmoke 
 
 [johnblack1zz]: 
 177.192.133.109-Purg 
@@ -285,10 +286,6 @@ MOON3: 131.196.198.15
 [johnblack1zz]: 
 177.192.133.109-Quebra 
 177.192.133.109-Cruz2 
-
-[seck_rj]: 
-189.127.164.20-Incendios2 
-189.127.164.20-Tsmoke 
 
 [aphroditthe]: 
 189.127.164.20-Tempp2L 
