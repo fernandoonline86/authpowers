@@ -714,17 +714,17 @@ llioncourt Ramon-189.127.164.218-
 131.196.197.8-fly 
 
 [PIERCER] 
-131.196.198.114-Kind 
-131.196.198.114-TransLobo 
-131.196.198.114-Latk 
-131.196.198.114-Quebra 
-131.196.198.114-Rugido 
-131.196.198.114-Escuridao 
-131.196.198.114-Paralisia 
-131.196.198.114-poison 
-131.196.198.114-Purg 
-131.196.198.114-Smokev2 
-131.196.198.114-Tempfblack 
+181.215.236.63-Kind 
+181.215.236.63-TransLobo 
+181.215.236.63-Latk 
+181.215.236.63-Quebra 
+181.215.236.63-Rugido 
+181.215.236.63-Escuridao 
+181.215.236.63-Paralisia 
+181.215.236.63-poison 
+181.215.236.63-Purg 
+181.215.236.63-Smokev2 
+181.215.236.63-Tempfblack 
 
 [GAMBOZ] 
 189.127.165.127-Jato 
@@ -796,14 +796,21 @@ llioncourt Ramon-189.127.164.218-
 131.196.197.19-Heal 
 131.196.197.19-Ressu 
 
-[fernandoh6227] -reveillon 
-[rhay] 45.141.214.7-reveillon 
+[fernandoh6227] 
+-reveillon 
 
-[bugmen] 181.215.236.90-reveillon 181.215.236.93-reveillon 
+[rhay] 
+45.141.214.7-reveillon 
 
-[douglashubesch] 131.196.198.115-reveillon 
+[bugmen] 
+181.215.236.90-reveillon 
+181.215.236.93-reveillon 
 
-[livesdozeno] 89.213.5.231-Pulo 
+[douglashubesch] 
+131.196.198.115-reveillon 
+
+[livesdozeno] 
+89.213.5.231-Pulo 
 89.213.5.231-TransLobo 
 89.213.5.231-Escuridao 
 89.213.5.231-Sereia 
@@ -829,7 +836,12 @@ llioncourt Ramon-189.127.164.218-
 189.127.165.211-Neva 
 189.127.165.211-Nevasca 
 
-[wiccanoboy] -212.18.114.145-Kind -212.18.114.145-FreezeTime -212.18.114.145-Latk -212.18.114.145-Banshee DESABILITADOS FALTA R$ 200 PAGAR.
+[wiccanoboy] 
+-212.18.114.145-Kind 
+-212.18.114.145-FreezeTime 
+-212.18.114.145-Latk 
+-212.18.114.145-Banshee DESABILITADOS FALTA R$ 200 PAGAR.
+
 ----------------------------------
 --------iiluminnatti---------------
 ----------------------------------
@@ -913,7 +925,9 @@ llioncourt Ramon-189.127.164.218-
 189.127.165.115-Segchaos 
 
 [Ethergate]
-[.timelord] 189.127.164.154-Natu 189.127.164.154-Ressu 
+[.timelord] 
+189.127.164.154-Natu 
+189.127.164.154-Ressu 
 
 [ferclosehh selene_._.] 
 181.215.254.189-Natu 
@@ -928,9 +942,31 @@ llioncourt Ramon-189.127.164.218-
 45.236.87.87-Thunderall 
 45.236.87.87-Smokev3 
 
-[damon_blake] 189.127.164.218-Incendios2 189.127.164.218-Incendios3 
+[damon_blake] 
+189.127.164.218-Incendios2 
+189.127.164.218-Incendios3 
 
-[wiccano5900] --104.234.189.165-Uivo --104.234.189.165-Lili --104.234.189.165-Quebra --104.234.189.165-Sereia --104.234.189.165-Move --104.234.189.165-Drenarold 
+[wiccano5900] 
+--104.234.189.165-Uivo 
+--104.234.189.165-Lili 
+--104.234.189.165-Quebra 
+--104.234.189.165-Sereia 
+--104.234.189.165-Move 
+--104.234.189.165-Drenarold 
 
-[duke.slytherin] 189.127.164.123-Quebra 189.127.164.123-Drenarold 
-[duke.slytherin] 45.141.214.83-Incendios2 45.141.214.83-Hipnose 45.141.214.83-Medo2 45.141.214.83-Medo2S 45.141.214.83-Mirage 45.141.214.83-Piro 45.141.214.83-VenenoMS 45.141.214.83-VenenoM 45.141.214.83-Visao 45.141.214.83-Incendios2 45.141.214.83-DeathNote 
+[duke.slytherin] 
+189.127.164.123-Quebra 
+189.127.164.123-Drenarold 
+
+[duke.slytherin] 
+45.141.214.83-Incendios2 
+45.141.214.83-Hipnose 
+45.141.214.83-Medo2 
+45.141.214.83-Medo2S 
+45.141.214.83-Mirage 
+45.141.214.83-Piro 
+45.141.214.83-VenenoMS 
+45.141.214.83-VenenoM 
+45.141.214.83-Visao 
+45.141.214.83-Incendios2 
+45.141.214.83-DeathNote 
