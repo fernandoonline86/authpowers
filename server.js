@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json({ limit: '1mb' }));
 
 const UPSTREAM = 'https://api.mercadopago.com';
-const REQUIRED_TOKEN = process.env.PROXY_TOKEN || 'troque-este-token';
+const REQUIRED_TOKEN = process.env.PROXY_TOKEN || 'S3uT0k3n!';
 
 app.use('/mp', async (req, res) => {
   if (req.headers['x-proxy-token'] !== REQUIRED_TOKEN) {
