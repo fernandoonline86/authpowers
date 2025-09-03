@@ -452,9 +452,11 @@
 [diogosilvaferreira agatha 621106792654700545]
 --172.84.94.225-Incendios2
 --172.84.94.225-Drenarold
---172.84.94.225-Medo
---172.84.94.225-Pest
---172.84.94.225-Kind 
+181.214.221.121-Medo
+181.214.221.121-Pest
+181.214.221.121-DarkHole
+--172.84.94.225-Kind (trocado por dark hole pela elara)
+
 181.215.45.167-Reverencia
 --172.84.94.225-poison 
 
@@ -998,7 +1000,7 @@ ALVORADA --
 181.215.45.167-Venenor 
 --191.96.224.190-Segchaos 
 --191.96.224.190-FreezeTime 
---191.96.224.190-poison
+181.214.221.121-poison
 181.215.45.167-ParalisiaPink
 181.215.45.167-RessuAgua
 
